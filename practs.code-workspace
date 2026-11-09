@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../csc 216"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tiktok"
+	}
+}
